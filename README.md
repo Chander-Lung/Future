@@ -1,0 +1,2 @@
+# FutureDataBase
+I've been thinking about what databases will look like in the future. I think it should at least be able to run efficiently wherever data is stored and processed, of course yes, the task of the future database will still being used to store and process data. It can quickly and flexibly obtain any data we want to access, while the validity, consistency and security of the data can be very good guarantee. Speed, accuracy and safety are all indispensable.
